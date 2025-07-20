@@ -95,13 +95,13 @@ Argument	       Description	                     Default
 ### 📊 Example Plots & Screenshots 
 #### ( These are for 20 Trades with a fee percentage of 0.5 and reserves as 150 and 300000 for token A & B respectively. )
 #### 📈 1. Price Evolution Over Trades
-![](outputs/price_evolution1.png)
+![](images/price_evolution1.png)
 
 #### 💰 2. Fees Collected Over Trades
-![](outputs/fees_collected1.png)
+![](images/fees_collected1.png)
 
 #### 📉 3. Slippage Comparison
-![](outputs/slippage_comparison1.png)
+![](images/slippage_comparison1.png)
 
 ## 📈 Visualizations
 
